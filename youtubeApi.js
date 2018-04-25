@@ -1,4 +1,5 @@
 import Q from 'bluebird';
+import _ from 'lodash';
 import Xhr from 'xhr-request';
 import Signals from 'signals';
 import { ERROR_TYPES } from 'dash-player-errortypes'
